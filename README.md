@@ -1,4 +1,4 @@
-**Automated Email System with Dynamic File Attachments**
+**Automated Email System with Dynamic File Attachments.**
 
 This repository contains a comprehensive solution for automating the process of sending customized emails with dynamic file attachments. The system is designed to handle various formats such as PDFs (invoices) and Excel files, ensuring seamless communication between the sender and multiple recipients. The main functionalities are designed for businesses dealing with invoice management, customer interaction, and automated mailing operations.
 
